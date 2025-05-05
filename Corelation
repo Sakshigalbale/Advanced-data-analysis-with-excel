@@ -1,0 +1,30 @@
+Correlation
+------------
+Correlation is a statistical measure that describes the strength and direction of a relationship between two variables.
+
+-> Positive Correlation (+1): As one variable increases, the other also increases.
+  Example: Height and weight.
+-> Negative Correlation (–1): As one variable increases, the other decreases.
+  Example: Number of hours studied and number of mistakes in an exam.
+-> No Correlation (0): No linear relationship exists between the variables.
+  Example: Shoe size and intelligence.
+
+Correlation Coefficient (r value) -> ranges between –1 and +1.
+
+R-Squared Value
+---------------
+R-squared, also known as the coefficient of determination, is a statistical measure that shows how well the independent variable(s) explain the variation in the dependent variable.
+
+R² ranges from 0 to 1:
+
+R² Value	Interpretation
+0	The model explains none of the variability.
+0.5	The model explains 50% of the variability.
+1	The model explains all of the variability.
+
+ R² vs Correlation (r):
+Correlation (r) measures strength and direction of a linear relationship.
+R² = r², when dealing with one independent and one dependent variable.
+
+For example:
+If r = 0.9, then R² = 0.81 → 81% of variation is explained.
